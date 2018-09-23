@@ -1,0 +1,8 @@
+*.pyc
+*.csv
+*.json
+*.html
+
+venv/
+*.egg-info/
+
